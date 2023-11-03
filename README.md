@@ -6,7 +6,7 @@ Computer science and AI specialized engineering student at ENSI (National School
 
 - 📫 How to reach me : louhichirihem@gmail.com
 
-- 📫 My Linkedin : https://www.linkedin.com/in/syrine-bahri-5259311ba/
+- 📫 My Linkedin : https://www.linkedin.com/in/rihem-louhichi-8091b8240/
 
 <br />
 

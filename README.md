@@ -1,8 +1,8 @@
-### Hi there, I'm Rihem !👋
+## Hi there, I'm Rihem !👋
 
-## Passionate Data scientist and AI engineer !
+### Passionate Data scientist and AI engineer !
 
-# Graduated as Computer science and AI specialized engineer from ENSI (National School For Computer Science)
+### Graduated as Computer science and AI specialized engineer from ENSI (National School For Computer Science)
 
 - 📫 How to reach me : louhichirihem@gmail.com
 
